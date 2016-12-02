@@ -29,3 +29,8 @@ hi, h2 {
     color: #2884C3;
 }
 
+body {
+    font-size: 1.5em;
+    font-family: "Crimson Text", Arial
+    line-height: 1.5;
+}
