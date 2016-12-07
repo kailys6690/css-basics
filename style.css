@@ -49,3 +49,7 @@ code {
     font-style: italic;
     color: green;
 }
+
+a:link {
+    color: green;
+}
