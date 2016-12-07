@@ -31,12 +31,16 @@ hi, h2 {
 
 body {
     font-size: 1.5em;
-    font-family: "Crimson Text", Arial
+    font-family: "Crimson Text", Arial;
     line-height: 1.5;
 }
+
 
 code {
     color: #CE234C;
     background-color: lightgray;
 }
 
+.snippet {
+    background-color: lightgray;
+}
