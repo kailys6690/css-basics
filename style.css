@@ -59,7 +59,10 @@ a:visited {
 }
 
 a:hover{
-    color:red;
-    text-decoration: none;
+    color:red; 
 }
 
+a:active{
+    color:blue;
+    text-decoration: underline;
+}
