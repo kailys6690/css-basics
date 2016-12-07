@@ -44,3 +44,8 @@ code {
 .snippet {
     background-color: lightgray;
 }
+
+#font-practice {
+    font-style: italic;
+    color: green;
+}
